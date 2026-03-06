@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 79.99,
+    "description": "Comfortable over‑ear wireless headphones with noise cancellation and 20 hours of battery life.",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 499.99,
+    "description": "Latest generation smartphone with a 6.5‑inch display, 128GB storage and dual‑camera system.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Classic Sneakers",
+    "price": 59.95,
+    "description": "Unisex low‑top sneakers made from canvas with a rubber sole. Timeless design.",
+    "image": "https://images.unsplash.com/photo-1528701800489-824e631920d4?auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 45.00,
+    "description": "Durable backpack with multiple compartments, ideal for school, work or travel.",
+    "image": "https://images.unsplash.com/photo-1514474959185-2f60d3f6ff33?auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Wristwatch",
+    "price": 199.99,
+    "description": "Stainless steel wristwatch with quartz movement and water resistance up to 50m.",
+    "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Novel Book",
+    "price": 14.99,
+    "description": "Bestselling novel with an engaging story and memorable characters. Hardcover edition.",
+    "image": "https://images.unsplash.com/photo-1496104679561-38fdd3a07a6c?auto=format&fit=crop&w=400&q=60"
+  }
+]
